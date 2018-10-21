@@ -1,5 +1,5 @@
 _repo: Poems-by-Emily-Dickinson-Series-Two_2679
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   creator:
     editors:
@@ -41,5 +41,6 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'American poetry'
 - !lcc 'PS'
+- GITenberg
 title: Poems by Emily Dickinson, Series Two
 url: http://www.gutenberg.org/ebooks/2679
